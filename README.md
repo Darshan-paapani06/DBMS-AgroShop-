@@ -1,4 +1,4 @@
-🌾 AgroShop — DBMS-Driven E-Commerce Platform
+🌾 AgroShop — DBMS-Driven E-Commerce Platform   
 Overview
 
 AgroShop is a database-centric e-commerce web application designed to connect farmers, suppliers, and consumers through a structured and efficient digital marketplace. The primary objective of this project is to demonstrate core DBMS concepts such as relational modeling, normalization, constraints, queries, and transaction handling in a real-world business scenario.
